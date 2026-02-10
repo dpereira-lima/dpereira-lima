@@ -3,7 +3,7 @@ I'm Diego Lima, developer and data analyst
 
 Graduated in Computer Science and MBA in Data Science.
 
-With more than 12 years of experience in IT, I have worked with support, systems analysis and currently work with development and data analysis.
+With more than 10 years of experience in IT, I have worked with support, systems analysis and currently work with development and data analysis.
  
 <br>
 
