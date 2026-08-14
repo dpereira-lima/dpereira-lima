@@ -5,7 +5,7 @@ Sou o Diego Lima, Analista de Sistemas e apaixonado por dados.
 Atuo há mais de 14 anos em TI, atualmente como **Analista de Sistemas Pleno no ICESP** (Instituto do Câncer do Estado de São Paulo), onde trabalho com análise de dados operacionais hospitalares e dashboards de gestão.
 
 **Formação:**
-- Técnico em Informática - ETEC Itaquera
+- Técnico em Informática — ETEC Itaquera
 - Bacharel em Ciência da Computação — Uninove
 - MBA em Ciência de Dados — FIAP
 
@@ -16,9 +16,9 @@ Atuo há mais de 14 anos em TI, atualmente como **Analista de Sistemas Pleno no 
 
 **Como organizo meus repositórios:**
 
-- **Classroom** → exercícios de cursos e treinamentos que realizei
-- **Lab** → prática livre de linguagens e ferramentas
-- **Job** → projetos profissionais e freelas
+- **Classroom** -> exercícios de cursos e treinamentos que realizei
+- **Lab** -> prática livre de linguagens e ferramentas
+- **Job** -> projetos profissionais e freelas
 
 ---
 
