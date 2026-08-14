@@ -1,4 +1,4 @@
-### Olá!
+# Olá!
 
 Sou o Diego Lima, Analista de Sistemas e apaixonado por dados.
 
@@ -28,7 +28,3 @@ Atuo há mais de 14 anos em TI, atualmente como **Analista de Sistemas Pleno no 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/diegolima2021)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes)
 
----
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=dpereira-lima&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dpereira-lima&layout=compact&theme=transparent)
